@@ -19,6 +19,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.11.0",
     "mongoose-aggregate-paginate-v2": "^1.1.4",
-    "mysql": "^2.18.1"
+    "mysql": "^2.18.1",
+    "sequelize": "^6.37.6"
   }
 }
