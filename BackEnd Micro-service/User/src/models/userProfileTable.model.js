@@ -68,3 +68,4 @@ User.hasOne(UserProfile, { foreignKey: "user_id" });
 UserProfile.belongsTo(User, { foreignKey: "user_id" });
 
 module.exports = UserProfile;
+ 
